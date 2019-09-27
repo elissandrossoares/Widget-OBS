@@ -1,5 +1,5 @@
 # OBS-widgets
-### Inspiração para aprender sobre o Widget e Bots
+### Inspiração para aprender sobre o OBS-Widgets
 > https://github.com/AlbericoD
 
 ### Libs de Referencia
