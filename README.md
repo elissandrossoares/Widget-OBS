@@ -1,4 +1,6 @@
 # OBS-widgets
+### Inspiração para aprender sobre o Widget e Bots
+> https://github.com/AlbericoD
 
 ### Libs de Referencia
 
@@ -13,3 +15,5 @@
 ### Objetivo Final:
 
 ![Objetivo](./doc/Diagrama-colaboracao.png)
+
+
